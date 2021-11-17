@@ -21,14 +21,14 @@ is in a CSV file called `ft_excess_deaths.csv`.
 [British YouGov global public opinion organisation](https://yougov.co.uk/covid-19)
 and available
 [here](https://github.com/YouGov-Data/covid-19-tracker). To download all the
-data (1.2Gb) clone the GitHub repo with the data. The subdirectory `data`
+data (1.2Gb) clone the GitHub repo in the previous link. The subdirectory `data`
 contains a CSV file per country either as a `.csv` file or compressed in a
 `.zip` file. For each country that you want to analyze, you should get first
 a summary value of the attitudes to COVID-19 vaccines by analyzing the column
-`vac_1`, which contains the result of a survey on the question "If a COVID-19
-vaccine were made available to me this week, I would definitely get it" for
+`vac_1`, which contains the result of a survey on the question _"If a COVID-19
+vaccine were made available to me this week, I would definitely get it"_ for
 which respondents were asked to react to this statement on a 1 to 5 scale,
-ranging from "Strongly agree (1)" to "Strongly disagree (5)". Information on
+ranging from _"Strongly agree (1)"_ to _"Strongly disagree (5)"_. Information on
 all other variables is available in the Excel file `codebook.xlsx`, which
 also forms part of that GitHub repo. You may use other variables as well to
 address the question of this project.
