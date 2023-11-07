@@ -4,7 +4,8 @@
 
 ## Summary
 
-In this project you should analyse data to attempt answering the following question:
+In this project you should analyse data to attempt answering the following
+question:
 
 > Are attitudes to COVID-19 vaccinations in a  country associated with the excess mortality rate on that country, observed during the COVID-19 pandemic?
 
